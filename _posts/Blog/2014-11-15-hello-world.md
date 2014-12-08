@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eh Spy"
+title: "Eh Spy!"
 modified:
 categories: Blog
 excerpt:
