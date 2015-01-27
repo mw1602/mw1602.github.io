@@ -17,8 +17,10 @@ I work in the Neuroscience of Language Lab at NYU, with Dr. Liina Pylkkänen. My
 
 * Westerlund, M., & Pylkkänen, L. (2014). The role of the left anterior temporal lobe in semantic composition vs. semantic memory. Neuropsychologia, 57, 59–70.
 
+* Westerlund, M., Kastner, I., Al Kaabi, M., & Pylkkänen, L. (2015). The LATL as locus of composition: MEG evidence from English and Arabic. Brain and Language, 141, 124-134. 
+
 ###In Preparation
 
-* Westerlund, M., Kastner, I., Al Kaabi, M., & Pylkkänen, L. (under revision). The LATL as locus of composition: MEG evidence from English and Arabic.
+
 
 * Fruchter, J., Linzen, T., Westerlund, M., & Marantz, A. (under review). Lexical preactivation in basic linguistic phrases. 
